@@ -7,7 +7,8 @@ attr_accessor :word
   end
   
   def match(array)
-    
+    array.select do |item|
+      
     
 
 end
